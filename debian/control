@@ -1,0 +1,16 @@
+Source: ascii-image-converter
+Section: unknown
+Priority: optional
+Maintainer: Jay R. Wren <jrwren@xmtp.net>
+Build-Depends: debhelper-compat (= 13), golang-go
+Standards-Version: 4.5.0
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Browser: https://salsa.debian.org/debian/ascii-image-converter
+#Vcs-Git: https://salsa.debian.org/debian/ascii-image-converter.git
+Rules-Requires-Root: no
+
+Package: ascii-image-converter
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>

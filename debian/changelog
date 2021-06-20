@@ -1,0 +1,5 @@
+ascii-image-converter (0.0.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Jay R. Wren <jrwren@xmtp.net>  Sat, 19 Jun 2021 20:19:32 -0400
