@@ -1,5 +1,5 @@
 Source: ascii-image-converter
-Section: unknown
+Section: utils
 Priority: optional
 Maintainer: Jay R. Wren <jrwren@xmtp.net>
 Build-Depends: debhelper-compat (= 13), golang-go
