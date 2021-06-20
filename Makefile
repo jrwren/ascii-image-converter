@@ -1,5 +1,5 @@
 build:
-	GOCACHE=${PWD}/gocache go install .
+	GOCACHE=/tmp/gocache go install .
 
 install:
 	mkdir -p ${DESTDIR}/usr/bin
