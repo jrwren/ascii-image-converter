@@ -1,0 +1,7 @@
+1. dh_make -p ascii-image-converter_0.0.0 --createorig
+2. change debian/source/format from quilt to native
+3. rm debian/*.ex debian/*.EX
+4. go mod vendor
+5. create Makefile
+6. dpkg-buildpackage  -S
+7. dpkg-buildpackage
